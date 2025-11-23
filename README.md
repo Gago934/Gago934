@@ -19,10 +19,9 @@
 </div>
 
 <div align="center" width="100%">
-  <img src= "https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&width=900&size=22&center=true&lines=Hi+%2C+Welcome!;Student Programming;Back-End+Developer;UX%2FUI+Designer"alt="Typing SVG"/>
+  <img src= "https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&width=900&size=22&center=true&lines=Hi+Welcome!!;Student+Programming;Back-End+Developer;UX%2FUI+Designer" alt="Typing SVG"/>
 </div>
 
-<br>
 
 <br>
 <br>
@@ -84,3 +83,4 @@
 <br>
 <br>
 <br>
+
