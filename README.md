@@ -27,7 +27,7 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Gago934&show_icons=true&count_private=true&rank_icon=github&theme=holi&font=Pixelify"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Gago934&show_icons=true&count_private=true&rank_icon=github&theme=holi"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gago934&layout=compact&font=Iosevka&langs_count=16&theme=holi"/>
   <br>
   <br>
